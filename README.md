@@ -4,4 +4,4 @@ You can use this interface using QT Designer. Not perfect but a good start. Just
 ![screenshots](./Screenshot_۲۰۲۴۰۱۰۲_۲۲۰۹۱۹.png)
 ![screenshots](./Screenshot_۲۰۲۴۰۱۰۲_۲۲۰۲۱۸.png)
 ![screenshots](./Screenshot_۲۰۲۴۰۱۰۲_۲۲۰۳۲۹.png)
-![screenshots](.Screenshot_۲۰۲۴۰۱۰۲_۲۲۰۳۴۶.png)
+![screenshots](./Screenshot_۲۰۲۴۰۱۰۲_۲۲۰۳۴۶.png)
